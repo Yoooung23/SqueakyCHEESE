@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/brynleebingham/.nuget/packages/": {}
+    "/Users/loganyoung/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brynleebingham/Desktop/cse 210/SqueakyCHEESE/SqueakyCHEESE.csproj",
+      "projectUniqueName": "/Users/loganyoung/Documents/School/S25/CSE-210/da cheese/SqueakyCHEESE/SqueakyCHEESE.csproj",
       "projectName": "SqueakyCHEESE",
-      "projectPath": "/Users/brynleebingham/Desktop/cse 210/SqueakyCHEESE/SqueakyCHEESE.csproj",
-      "packagesPath": "/Users/brynleebingham/.nuget/packages/",
-      "outputPath": "/Users/brynleebingham/Desktop/cse 210/SqueakyCHEESE/obj/",
+      "projectPath": "/Users/loganyoung/Documents/School/S25/CSE-210/da cheese/SqueakyCHEESE/SqueakyCHEESE.csproj",
+      "packagesPath": "/Users/loganyoung/.nuget/packages/",
+      "outputPath": "/Users/loganyoung/Documents/School/S25/CSE-210/da cheese/SqueakyCHEESE/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/brynleebingham/.nuget/NuGet/NuGet.Config"
+        "/Users/loganyoung/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
